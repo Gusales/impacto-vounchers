@@ -1,0 +1,325 @@
+{
+  "vounchers": [
+    {
+      "id": 1,
+      "nome": "Cartão Presente XBOX R$ 5,00",
+      "descricao": "Cartão vale presente XBOX no valor de R$ 5,00",
+      "codigo": "1234-5678-9101-1121",
+      "foiComprado": false,
+      "pontos": 5000
+    },
+    {
+      "id": 2,
+      "nome": "Cartão Presente PSN R$ 10,00",
+      "descricao": "Cartão vale presente PSN no valor de R$ 10,00",
+      "codigo": "2234-5678-9101-1131",
+      "foiComprado": false,
+      "pontos": 10000
+    },
+    
+    {
+      "id": 3,
+      "nome": "Cartão Presente Google Play R$ 15,00",
+      "descricao": "Cartão vale presente Google Play no valor de R$ 15,00",
+      "codigo": "3234-5678-9101-1141",
+      "foiComprado": false,
+      "pontos": 15000
+    },
+    {
+      "id": 4,
+      "nome": "Cartão Presente Spotify R$ 20,00",
+      "descricao": "Cartão vale presente Spotify no valor de R$ 20,00",
+      "codigo": "4234-5678-9101-1151",
+      "foiComprado": false,
+      "pontos": 20000
+    },
+    {
+      "id": 5,
+      "nome": "Cupom Desconto iFood R$ 10,00",
+      "descricao": "Cupom de desconto iFood no valor de R$ 10,00",
+      "codigo": "5234-5678-9101-1161",
+      "foiComprado": false,
+      "pontos": 5000
+    },
+    {
+      "id": 6,
+      "nome": "Cupom Desconto McDonald's R$ 15,00",
+      "descricao": "Cupom de desconto McDonald's no valor de R$ 15,00",
+      "codigo": "6234-5678-9101-1171",
+      "foiComprado": false,
+      "pontos": 15000
+    },
+    {
+      "id": 7,
+      "nome": "Cupom Desconto Burger King R$ 20,00",
+      "descricao": "Cupom de desconto Burger King no valor de R$ 20,00",
+      "codigo": "7234-5678-9101-1181",
+      "foiComprado": false,
+      "pontos": 20000
+    },
+    {
+      "id": 8,
+      "nome": "Cartão Presente XBOX R$ 25,00",
+      "descricao": "Cartão vale presente XBOX no valor de R$ 25,00",
+      "codigo": "8234-5678-9101-1191",
+      "foiComprado": false,
+      "pontos": 25000
+    },
+    {
+      "id": 9,
+      "nome": "Cartão Presente PSN R$ 30,00",
+      "descricao": "Cartão vale presente PSN no valor de R$ 30,00",
+      "codigo": "9234-5678-9101-1201",
+      "foiComprado": false,
+      "pontos": 30000
+    },
+    {
+      "id": 10,
+      "nome": "Cartão Presente Google Play R$ 35,00",
+      "descricao": "Cartão vale presente Google Play no valor de R$ 35,00",
+      "codigo": "1334-5678-9101-1211",
+      "foiComprado": false,
+      "pontos": 35000
+    },
+    {
+      "id": 11,
+      "nome": "Cartão Presente Spotify R$ 40,00",
+      "descricao": "Cartão vale presente Spotify no valor de R$ 40,00",
+      "codigo": "2334-5678-9101-1221",
+      "foiComprado": false,
+      "pontos": 40000
+    },
+    {
+      "id": 12,
+      "nome": "Cupom Desconto iFood R$ 20,00",
+      "descricao": "Cupom de desconto iFood no valor de R$ 20,00",
+      "codigo": "3334-5678-9101-1231",
+      "foiComprado": false,
+      "pontos": 20000
+    },
+    {
+      "id": 13,
+      "nome": "Cupom Desconto McDonald's R$ 25,00",
+      "descricao": "Cupom de desconto McDonald's no valor de R$ 25,00",
+      "codigo": "4334-5678-9101-1241",
+      "foiComprado": false,
+      "pontos": 25000
+    },
+    {
+      "id": 14,
+      "nome": "Cupom Desconto Burger King R$ 30,00",
+      "descricao": "Cupom de desconto Burger King no valor de R$ 30,00",
+      "codigo": "5334-5678-9101-1251",
+      "foiComprado": false,
+      "pontos": 30000
+    },
+    {
+      "id": 15,
+      "nome": "Cartão Presente XBOX R$ 50,00",
+      "descricao": "Cartão vale presente XBOX no valor de R$ 50,00",
+      "codigo": "6334-5678-9101-1261",
+      "foiComprado": false,
+      "pontos": 50000
+    },
+    {
+      "id": 16,
+      "nome": "Cartão Presente PSN R$ 60,00",
+      "descricao": "Cartão vale presente PSN no valor de R$ 60,00",
+      "codigo": "7334-5678-9101-1271",
+      "foiComprado": false,
+      "pontos": 60000
+    },
+    {
+      "id": 17,
+      "nome": "Cartão Presente Google Play R$ 70,00",
+      "descricao": "Cartão vale presente Google Play no valor de R$ 70,00",
+      "codigo": "8334-5678-9101-1281",
+      "foiComprado": false,
+      "pontos": 70000
+    },
+    {
+      "id": 18,
+      "nome": "Cartão Presente Spotify R$ 80,00",
+      "descricao": "Cartão vale presente Spotify no valor de R$ 80,00",
+      "codigo": "9334-5678-9101-1291",
+      "foiComprado": false,
+      "pontos": 80000
+    },
+    {
+      "id": 19,
+      "nome": "Cupom Desconto iFood R$ 30,00",
+      "descricao": "Cupom de desconto iFood no valor de R$ 30,00",
+      "codigo": "1434-5678-9101-1301",
+      "foiComprado": false,
+      "pontos": 30000
+    },
+    {
+      "id": 20,
+      "nome": "Cupom Desconto McDonald's R$ 35,00",
+      "descricao": "Cupom de desconto McDonald's no valor de R$ 35,00",
+      "codigo": "2434-5678-9101-1311",
+      "foiComprado": false,
+      "pontos": 35000
+    },
+    {
+      "id": 21,
+      "nome": "Cupom Desconto Burger King R$ 40,00",
+      "descricao": "Cupom de desconto Burger King no valor de R$ 40,00",
+      "codigo": "3434-5678-9101-1321",
+      "foiComprado": false,
+      "pontos": 40000
+    },
+    {
+      "id": 22,
+      "nome": "Cartão Presente XBOX R$ 75,00",
+      "descricao": "Cartão vale presente XBOX no valor de R$ 75,00",
+      "codigo": "4434-5678-9101-1331",
+      "foiComprado": false,
+      "pontos": 75000
+    },
+    {
+      "id": 23,
+      "nome": "Cartão Presente PSN R$ 85,00",
+      "descricao": "Cartão vale presente PSN no valor de R$ 85,00",
+      "codigo": "5434-5678-9101-1341",
+      "foiComprado": false,
+      "pontos": 85000
+    },
+    {
+      "id": 24,
+      "nome": "Cartão Presente Google Play R$ 90,00",
+      "descricao": "Cartão vale presente Google Play no valor de R$ 90,00",
+      "codigo": "6434-5678-9101-1351",
+      "foiComprado": false,
+      "pontos": 90000
+    },
+    {
+      "id": 25,
+      "nome": "Cartão Presente Spotify R$ 100,00",
+      "descricao": "Cartão vale presente Spotify no valor de R$ 100,00",
+      "codigo": "7434-5678-9101-1361",
+      "foiComprado": false,
+      "pontos": 100000
+    },
+    {
+      "id": 26,
+      "nome": "Cupom Desconto iFood R$ 40,00",
+      "descricao": "Cupom de desconto iFood no valor de R$ 40,00",
+      "codigo": "8434-5678-9101-1371",
+      "foiComprado": false,
+      "pontos": 40000
+    },
+    {
+      "id": 27,
+      "nome": "Cupom Desconto McDonald's R$ 50,00",
+      "descricao": "Cupom de desconto McDonald's no valor de R$ 50,00",
+      "codigo": "9434-5678-9101-1381",
+      "foiComprado": false,
+      "pontos": 50000
+    },
+    {
+      "id": 28,
+      "nome": "Cupom Desconto Burger King R$ 60,00",
+      "descricao": "Cupom de desconto Burger King no valor de R$ 60,00",
+      "codigo": "1534-5678-9101-1391",
+      "foiComprado": false,
+      "pontos": 60000
+    },
+    {
+      "id": 29,
+      "nome": "Cartão Presente XBOX R$ 100,00",
+      "descricao": "Cartão vale presente XBOX no valor de R$ 100,00",
+      "codigo": "2534-5678-9101-1401",
+      "foiComprado": false,
+      "pontos": 100000
+    },
+    {
+      "id": 30,
+      "nome": "Cartão Presente PSN R$ 110,00",
+      "descricao": "Cartão vale presente PSN no valor de R$ 110,00",
+      "codigo": "3534-5678-9101-1411",
+      "foiComprado": false,
+      "pontos": 110000
+    },
+    {
+      "id": 31,
+      "nome": "Cartão Presente Google Play R$ 120,00",
+      "descricao": "Cartão vale presente Google Play no valor de R$ 120,00",
+      "codigo": "4534-5678-9101-1421",
+      "foiComprado": false,
+      "pontos": 120000
+    },
+    {
+      "id": 32,
+      "nome": "Cartão Presente Spotify R$ 130,00",
+      "descricao": "Cartão vale presente Spotify no valor de R$ 130,00",
+      "codigo": "5534-5678-9101-1431",
+      "foiComprado": false,
+      "pontos": 130000
+    },
+    {
+      "id": 33,
+      "nome": "Cupom Desconto iFood R$ 50,00",
+      "descricao": "Cupom de desconto iFood no valor de R$ 50,00",
+      "codigo": "6534-5678-9101-1441",
+      "foiComprado": false,
+      "pontos": 50000
+    },
+    {
+      "id": 34,
+      "nome": "Cupom Desconto McDonald's R$ 60,00",
+      "descricao": "Cupom de desconto McDonald's no valor de R$ 60,00",
+      "codigo": "7534-5678-9101-1451",
+      "foiComprado": false,
+      "pontos": 60000
+    },
+    {
+      "id": 35,
+      "nome": "Cupom Desconto Burger King R$ 70,00",
+      "descricao": "Cupom de desconto Burger King no valor de R$ 70,00",
+      "codigo": "8534-5678-9101-1461",
+      "foiComprado": false,
+      "pontos": 70000
+    },
+    {
+      "id": 36,
+      "nome": "Cartão Presente XBOX R$ 150,00",
+      "descricao": "Cartão vale presente XBOX no valor de R$ 150,00",
+      "codigo": "9534-5678-9101-1471",
+      "foiComprado": false,
+      "pontos": 150000
+    },
+    {
+      "id": 37,
+      "nome": "Cartão Presente PSN R$ 160,00",
+      "descricao": "Cartão vale presente PSN no valor de R$ 160,00",
+      "codigo": "1634-5678-9101-1481",
+      "foiComprado": false,
+      "pontos": 160000
+    },
+    {
+      "id": 38,
+      "nome": "Cartão Presente Google Play R$ 170,00",
+      "descricao": "Cartão vale presente Google Play no valor de R$ 170,00",
+      "codigo": "2634-5678-9101-1491",
+      "foiComprado": false,
+      "pontos": 170000
+    },
+    {
+      "id": 39,
+      "nome": "Cartão Presente Spotify R$ 180,00",
+      "descricao": "Cartão vale presente Spotify no valor de R$ 180,00",
+      "codigo": "3634-5678-9101-1501",
+      "foiComprado": false,
+      "pontos": 180000
+    },
+    {
+      "id": 40,
+      "nome": "Cupom Desconto iFood R$ 60,00",
+      "descricao": "Cupom de desconto iFood no valor de R$ 60,00",
+      "codigo": "4634-5678-9101-1511",
+      "foiComprado": false,
+      "pontos": 60000
+    }
+  ]
+}
